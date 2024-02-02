@@ -1,0 +1,43 @@
+.product{
+    display: flex;
+    justify-content: space-between;
+}
+@media only screen and (max-width: 600px){
+    .product{
+        flex-direction: column;
+        padding-top: 12px!important;
+    }
+    .product1{
+        margin-bottom: 17px;
+    }
+    .my-5{
+        padding-top: 12px!important;
+    }
+}
+.product1{
+    position: relative;
+}
+.productDesc{
+    background-color: white;
+    position: absolute;
+    bottom: 80px;
+    padding: 22px;
+    width: 84%;
+    opacity: 0.9;
+}
+.productDesc p{
+    background-color: black;
+    color: white;
+    border-radius: 2px;
+    width: 40%;
+}
+.productDesc .but{
+    background-color: rgb(255, 166, 181);
+    height: 35px;
+    width: 36%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 7px;
+    cursor: pointer;
+}

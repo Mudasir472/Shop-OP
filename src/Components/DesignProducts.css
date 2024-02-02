@@ -1,0 +1,11 @@
+.designProduct{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.design{
+    padding-top: 35px;
+}
+.styleDesc{
+    padding-bottom: 18px;
+}

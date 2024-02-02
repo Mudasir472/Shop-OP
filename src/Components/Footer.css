@@ -1,0 +1,21 @@
+.displayFlex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.line-height-3{
+    line-height: 2;
+}
+footer ul li a:hover{
+    text-decoration: underline;
+    color: #9a9a9a;
+}
+@media only screen and (max-width: 600px){
+    .displayFlex{
+        align-items: start;
+    }
+    .footFooter{
+        flex-direction: column;
+    }
+}

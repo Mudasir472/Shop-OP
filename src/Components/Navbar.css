@@ -1,0 +1,68 @@
+.bg-pink{
+    background-color: pink;
+}
+.becomeSeller{
+    background-color: black;
+    color: white;
+    height: 46px;
+    width: 134px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.iconsInNav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    color: black;
+    border-radius: 11px;
+}
+.navRight{
+    margin-left: 21rem;
+    width: 27rem;
+    justify-content: space-evenly;
+    position: relative;
+    align-items: center;
+}
+.searchBar{
+    height: 46px;
+}
+.bagContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+    font-size: medium;
+    height: 21px;
+    width: 21px;
+    border-radius: 50%;
+    position: absolute;
+    top: 5px;
+    right: 35%;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 600px){
+    .navRight{
+        flex-direction: column;
+        margin-left: 0;
+        align-items:baseline;
+        width: 23rem;
+    }
+    .bagContainer{
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+    font-size: medium;
+    height: 21px;
+    width: 21px;
+    border-radius: 50%;
+    position: absolute;
+    top: 51px;
+    left: 3%;
+
+    }
+    
+}

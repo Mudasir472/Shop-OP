@@ -1,0 +1,65 @@
+.ship{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 23%;
+
+}
+.ship i{
+    font-size: xxx-large;
+    height: 90px;
+}
+.bestQuality{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    background: url("../Images/service-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+@media only screen and (max-width: 600px){
+    .bestQuality{
+        flex-direction: column;
+        height: 20%;
+    }
+    .ship{
+        width: 340px;
+    }
+}
+.designItems{
+    display: flex;
+    flex-direction: column;
+    transition: all 2s;
+    animation-duration: 1s;
+}
+.cost{
+    display: flex;
+}
+.designDesc{
+    padding-top: 22px;
+}
+.designImage{
+    position: relative;
+    transition: all 2s;
+    animation-duration: 1s;
+    
+}
+
+.shopIt{
+    transition: all 2s;
+    animation-duration: 1s;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 11px;
+    left: 23px;
+    height: 43px;
+    width: 135px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
