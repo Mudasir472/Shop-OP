@@ -1,5 +1,5 @@
 import logo from "../Images/logo-4.svg"
-
+import {Link} from 'react-router-dom';
 import "./Navbar.css";
 
 
@@ -42,10 +42,10 @@ export default function () {
                                 </li>
                                 <li class="nav-item iconsInNav">
                                 <span class="bagContainer">0</span>
-                                    <a class="nav-link" href="#"><i class="bi bi-bag-check"></i></a>
+                                    <Link class="nav-link" to="/cart"><i class="bi bi-bag-check"></i></Link>
                                 </li>
                                 <li class="nav-item iconsInNav">
-                                    <a class="nav-link" href="#"><i class="bi bi-person"></i></a>
+                                    <Link class="nav-link" to="/profile"><i class="bi bi-person"></i></Link>
                                 </li>
                             </div>
                         </ul>
