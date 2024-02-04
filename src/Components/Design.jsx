@@ -19,6 +19,7 @@ export default function ({ desc="Trendy Design" }) {
                                 <DesignProducts img1={img2} descc="Women's Shirt Dress" cost={`${9.99}$`} costt={`${6.99}$`}/>
                                 <DesignProducts img1={img3} descc="Women's Shirt Dress" cost={`${9.99}$`} costt={`${6.99}$`}/>
                                 <DesignProducts img1={img4} descc="Women's Shirt Dress" cost={`${9.99}$`} costt={`${6.99}$`}/>
+                                <DesignProducts img1={img4} descc="Women's Shirt Dress" cost={`${9.99}$`} costt={`${6.99}$`}/>
                             </div>
                         </div>
                     </div>
