@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Shop-OP/static/css/main.496406a2.css",
+    "main.js": "/Shop-OP/static/js/main.988d923f.js",
+    "static/js/787.df9d0b6c.chunk.js": "/Shop-OP/static/js/787.df9d0b6c.chunk.js",
+    "static/media/Banner1.png": "/Shop-OP/static/media/Banner1.dc98282a4fd2534bc41d.png",
+    "static/media/banner-3.png": "/Shop-OP/static/media/banner-3.c700be788416ca34fdbf.png",
+    "static/media/banner-2.png": "/Shop-OP/static/media/banner-2.a104dc82fbe63589ba91.png",
+    "static/media/service-bg.png": "/Shop-OP/static/media/service-bg.1a28c48ef237c28257b6.png",
+    "static/media/design-3.jpg": "/Shop-OP/static/media/design-3.f410ecf09ff067cf28c8.jpg",
+    "static/media/design-1.jpg": "/Shop-OP/static/media/design-1.f174e00ce283e32c14d9.jpg",
+    "static/media/design-2.jpg": "/Shop-OP/static/media/design-2.f96f3420e5164e377783.jpg",
+    "static/media/design-4.jpg": "/Shop-OP/static/media/design-4.60b4b253f233b1bcfbd6.jpg",
+    "static/media/logo-4.svg": "/Shop-OP/static/media/logo-4.29127d8558e5e504c203c2e0141ad927.svg",
+    "index.html": "/Shop-OP/index.html",
+    "main.496406a2.css.map": "/Shop-OP/static/css/main.496406a2.css.map",
+    "main.988d923f.js.map": "/Shop-OP/static/js/main.988d923f.js.map",
+    "787.df9d0b6c.chunk.js.map": "/Shop-OP/static/js/787.df9d0b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.496406a2.css",
+    "static/js/main.988d923f.js"
+  ]
+}
