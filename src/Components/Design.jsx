@@ -7,7 +7,7 @@ import img4 from "../Images/design-4.jpg"
 export default function ({ desc="Trendy Design" }) {
     return (
         <>
-            <div className="design">
+            <div className="design py-5 bg-body-tertiary">
                 <div className="style-design">
                     <div className="container">
                         <div className="styleDesc">

@@ -1,0 +1,12 @@
+.brandImages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 133px;
+    width: 216px;
+    background-color: white;
+}
+.brand{
+    display: flex;
+    flex-wrap: wrap;
+}

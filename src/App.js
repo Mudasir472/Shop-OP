@@ -1,3 +1,4 @@
+import Brands from "./Components/Brands";
 import Design from "./Components/Design";
 import Footer from "./Components/Footer";
 import Navbar from "./Components/Navbar";
@@ -10,7 +11,8 @@ function App() {
        <Navbar/> 
        <ProductRowIst/>
        <Design/>
-      {/* <Footer/>  */}
+       <Brands/>
+       <Footer/> 
     </>
   );
 }
