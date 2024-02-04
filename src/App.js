@@ -1,9 +1,9 @@
-import Brands from "./Components/Brands";
 import Design from "./Components/Design";
 import Footer from "./Components/Footer";
 import Navbar from "./Components/Navbar";
-import ProductRowIst from "./Components/ProductRowIst";
-
+import Home from "./views/home";
+import Cart from "./views/cart";
+import Profile from "./views/profile";
 
 function App() {
   return (
@@ -11,8 +11,7 @@ function App() {
        <Navbar/> 
        <ProductRowIst/>
        <Design/>
-       <Brands/>
-       <Footer/> 
+      {/* <Footer/>  */}
     </>
   );
 }
