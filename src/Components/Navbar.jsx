@@ -22,7 +22,7 @@ export default function () {
                                 <button class="btn bg-pink" type="submit">Search</button>
                             </form>
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                                <Link class="nav-link active" aria-current="page" to="/">Home</Link>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Shop</a>
