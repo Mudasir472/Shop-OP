@@ -1,24 +1,35 @@
 {
   "files": {
-    "main.css": "/Shop-OP/static/css/main.32e60eb9.css",
-    "main.js": "/Shop-OP/static/js/main.aa65d850.js",
+    "main.css": "/Shop-OP/static/css/main.73066b1a.css",
+    "main.js": "/Shop-OP/static/js/main.393ed579.js",
     "static/js/787.df9d0b6c.chunk.js": "/Shop-OP/static/js/787.df9d0b6c.chunk.js",
+    "static/media/Discount banner.png": "/Shop-OP/static/media/Discount banner.a4a7f02798d97fae8e86.png",
+    "static/media/offer bgImage.jpg": "/Shop-OP/static/media/offer bgImage.ba4cfacaec39850e4acd.jpg",
     "static/media/Banner1.png": "/Shop-OP/static/media/Banner1.dc98282a4fd2534bc41d.png",
     "static/media/banner-3.png": "/Shop-OP/static/media/banner-3.c700be788416ca34fdbf.png",
     "static/media/banner-2.png": "/Shop-OP/static/media/banner-2.a104dc82fbe63589ba91.png",
+    "static/media/img9.jpg": "/Shop-OP/static/media/img9.d7e2fc56310fc0720b0f.jpg",
     "static/media/service-bg.png": "/Shop-OP/static/media/service-bg.1a28c48ef237c28257b6.png",
+    "static/media/img10.jpg": "/Shop-OP/static/media/img10.7d7e21158d19599d7769.jpg",
     "static/media/design-3.jpg": "/Shop-OP/static/media/design-3.f410ecf09ff067cf28c8.jpg",
+    "static/media/img7.jpg": "/Shop-OP/static/media/img7.45a5293ae0ab65453d4d.jpg",
+    "static/media/img5.jpg": "/Shop-OP/static/media/img5.f548bcb3ed21de93320f.jpg",
+    "static/media/img12.jpg": "/Shop-OP/static/media/img12.bd446ab21d624d633b2d.jpg",
     "static/media/design-1.jpg": "/Shop-OP/static/media/design-1.f174e00ce283e32c14d9.jpg",
+    "static/media/img11.jpg": "/Shop-OP/static/media/img11.7615fb5ccf08218fcc32.jpg",
+    "static/media/img8.jpg": "/Shop-OP/static/media/img8.409003bb9a6257e83a42.jpg",
+    "static/media/img6.jpg": "/Shop-OP/static/media/img6.cc25708c6dc60be5bc71.jpg",
     "static/media/design-2.jpg": "/Shop-OP/static/media/design-2.f96f3420e5164e377783.jpg",
     "static/media/design-4.jpg": "/Shop-OP/static/media/design-4.60b4b253f233b1bcfbd6.jpg",
+    "static/media/discount background.jpg": "/Shop-OP/static/media/discount background.86350ca65c19f7575d22.jpg",
     "static/media/logo-4.svg": "/Shop-OP/static/media/logo-4.61f920ee6ccdbd03de8dfca052807b74.svg",
     "index.html": "/Shop-OP/index.html",
-    "main.32e60eb9.css.map": "/Shop-OP/static/css/main.32e60eb9.css.map",
-    "main.aa65d850.js.map": "/Shop-OP/static/js/main.aa65d850.js.map",
+    "main.73066b1a.css.map": "/Shop-OP/static/css/main.73066b1a.css.map",
+    "main.393ed579.js.map": "/Shop-OP/static/js/main.393ed579.js.map",
     "787.df9d0b6c.chunk.js.map": "/Shop-OP/static/js/787.df9d0b6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32e60eb9.css",
-    "static/js/main.aa65d850.js"
+    "static/css/main.73066b1a.css",
+    "static/js/main.393ed579.js"
   ]
 }
