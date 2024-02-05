@@ -1,0 +1,41 @@
+.discount{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;background: url('../Images/discount\ background.jpg');
+    height: 330px;
+    position: relative;
+    margin-top: 41px;
+}
+.getDiscount{
+    display: flex;
+    width: 35%;
+    margin-left: 50px;
+
+}
+.getDiscount input{
+    height: 56px;
+    padding: 17px;
+    width: 100%;
+    border: none;
+}
+.getDiscount button{
+    border: none;
+    background-color: pink;
+    width: 173px;
+}
+.image img{
+    position: absolute;
+    left: -34px;
+    top: -64px;
+}
+@media only screen and (max-width: 600px){
+    .image img{
+        display: none;
+    }
+    .getDiscount{
+
+        margin-left: 0;
+        width: 87%;
+    }
+}

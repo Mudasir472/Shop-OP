@@ -1,0 +1,65 @@
+.offer{
+    display: flex;
+    flex-direction: column;
+    background: url("../Images/offer\ bgImage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 513px;
+    justify-content: space-evenly;
+    
+}
+
+.time{
+    display: flex;
+    width: 40%;
+    justify-content: space-evenly;
+}
+
+.timeUpto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.timeUpto div{
+    height: 86px;
+    width: 85px;
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 32px;
+}
+.offerTitle{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-left: 43px;
+}
+.offerTitle h2{
+    font-size: xxx-large;
+}
+.shopNow span{
+    cursor: pointer;
+    border-bottom: solid;
+}
+.timeUpto span{
+    color: green;
+    font-weight: 700;
+    font-size: xx-large;
+}
+@media only screen and (max-width: 600px){
+    .offer{
+        height: 100%;
+    }
+    .time{
+        width: 100%;
+    }
+    .offerTitle{
+        width: 70%;
+    }
+    .timeUpto span{
+        font-size: x-large;
+    }
+}

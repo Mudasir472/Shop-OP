@@ -4,6 +4,7 @@ import Navbar from "./Components/Navbar";
 import Home from "./views/home";
 import Cart from "./views/cart";
 import Profile from "./views/profile";
+import Offer from "./Components/Offer";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/cart" element={<Cart />} />
         <Route path='/profile' element={<Profile />} />
       </Routes>
+      
       <Footer />
     </Router>
   );

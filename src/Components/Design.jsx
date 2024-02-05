@@ -1,10 +1,6 @@
 import DesignProducts from "./DesignProducts";
 import "./DesignProducts.css"
-import img1 from "../Images/design-1.jpg"
-import img2 from "../Images/design-2.jpg"
-import img3 from "../Images/design-3.jpg"
-import img4 from "../Images/design-4.jpg"
-export default function ({ desc="Trendy Design" }) {
+export default function ({ desc="",img1,img2,img3,img4 }) {
     return (
         <>
             <div className="design py-5 bg-body-tertiary">
@@ -18,7 +14,6 @@ export default function ({ desc="Trendy Design" }) {
                                 <DesignProducts img1={img1} descc="Women's Shirt Dress" cost={`${9.99}$`} costt={`${6.99}$`}/>
                                 <DesignProducts img1={img2} descc="Women's Shirt Dress" cost={`${9.99}$`} costt={`${6.99}$`}/>
                                 <DesignProducts img1={img3} descc="Women's Shirt Dress" cost={`${9.99}$`} costt={`${6.99}$`}/>
-                                <DesignProducts img1={img4} descc="Women's Shirt Dress" cost={`${9.99}$`} costt={`${6.99}$`}/>
                                 <DesignProducts img1={img4} descc="Women's Shirt Dress" cost={`${9.99}$`} costt={`${6.99}$`}/>
                             </div>
                         </div>
