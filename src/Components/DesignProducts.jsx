@@ -14,9 +14,7 @@ export default function ({ img1, descc, cost, costt, idx }) {
                 <div className="designImage" 
                     onMouseEnter={() => setIsShown(true)}
                     onMouseLeave={() => setIsShown(false)}>
-                    <Link to='/cart'>
                     <img src={img1} alt="" />
-                    </Link>
                     
                     {isShown && (
                         <div onClick={()=>setIsAdded(true)} className="shopIt">
