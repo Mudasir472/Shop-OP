@@ -34,7 +34,7 @@ export default function () {
                                 <a class="nav-link" href="#">About</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Contact</a>
+                                <Link class="nav-link" to="/Contact">Contact</Link>
                             </li>
                             <div className="navRight d-flex">
                                 <li class="nav-item becomeSeller">

@@ -1,0 +1,54 @@
+body{
+    background-color: #f8f8f8!important;
+    font-family: Inter,sans-serif!important;
+}
+
+
+.heading{
+
+    padding-left: 5rem;
+}
+.head{
+    background-color: #fcf6f7;
+}
+
+/* .contactLeft{
+    display: flex;
+    flex-direction: column;
+    
+} */
+.phoneEmail{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 245px;
+    width: 100%;
+
+}
+.phone,.Email{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 290px;
+    height: 100%;
+}
+.phone{
+    background-color: rgb(255 234 229);
+}
+.Email{ 
+    background-color: rgb(211 239 255);
+}
+.contactLeft{
+    width: 50%;
+
+}
+.address{
+    background-color: rgb(231 242 236)
+}
+.contactLeft i{
+    font-size: xx-large;
+}
+.margin-30px{
+    margin-bottom: 30px;
+}
