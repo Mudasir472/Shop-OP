@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Shop-OP/static/css/main.868481c0.css",
-    "main.js": "/Shop-OP/static/js/main.5503a600.js",
+    "main.css": "/Shop-OP/static/css/main.72cda0ca.css",
+    "main.js": "/Shop-OP/static/js/main.74a42fae.js",
     "static/js/787.df9d0b6c.chunk.js": "/Shop-OP/static/js/787.df9d0b6c.chunk.js",
     "static/media/Discount banner.png": "/Shop-OP/static/media/Discount banner.a4a7f02798d97fae8e86.png",
     "static/media/offer bgImage.jpg": "/Shop-OP/static/media/offer bgImage.ba4cfacaec39850e4acd.jpg",
@@ -24,12 +24,12 @@
     "static/media/discount background.jpg": "/Shop-OP/static/media/discount background.86350ca65c19f7575d22.jpg",
     "static/media/logo-4.svg": "/Shop-OP/static/media/logo-4.61f920ee6ccdbd03de8dfca052807b74.svg",
     "index.html": "/Shop-OP/index.html",
-    "main.868481c0.css.map": "/Shop-OP/static/css/main.868481c0.css.map",
-    "main.5503a600.js.map": "/Shop-OP/static/js/main.5503a600.js.map",
+    "main.72cda0ca.css.map": "/Shop-OP/static/css/main.72cda0ca.css.map",
+    "main.74a42fae.js.map": "/Shop-OP/static/js/main.74a42fae.js.map",
     "787.df9d0b6c.chunk.js.map": "/Shop-OP/static/js/787.df9d0b6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.868481c0.css",
-    "static/js/main.5503a600.js"
+    "static/css/main.72cda0ca.css",
+    "static/js/main.74a42fae.js"
   ]
 }
