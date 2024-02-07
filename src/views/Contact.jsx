@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import "./Contact.css"
 import ContactLeftBody from './ContactLeftBody';
+import ContactRightBody from './ContactRightBody';
 
 export default function () {
     return (
@@ -23,6 +24,7 @@ export default function () {
 
                 <div className="contactMain">
                     <ContactLeftBody />
+                    <ContactRightBody/>
                 </div>
             </div>
         </>

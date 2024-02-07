@@ -52,3 +52,15 @@ body{
 .margin-30px{
     margin-bottom: 30px;
 }
+.contactMain{
+    display: flex;
+    
+}
+
+@media only screen and (max-width: 600px){
+    .contactMain{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
