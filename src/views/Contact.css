@@ -7,6 +7,8 @@ body{
 .heading{
 
     padding-left: 5rem;
+    margin-bottom: 30px;
+    
 }
 .head{
     background-color: #fcf6f7;
@@ -56,11 +58,74 @@ body{
     display: flex;
     
 }
+.contactForm{
+    width: 50%;
+    background-color: white;
+    margin: 26px 0px 0px 64px;
+}
+iframe{
+    height: 21rem;
+    width: 35rem;
+}
+.mb-3{
+    width: 23rem!important;
+}
+form button{
+    width: 100%!important;
+    /* padding-top: 12px; */
+    border-radius: 1px!important;
+}
+
 
 @media only screen and (max-width: 600px){
     .contactMain{
         display: flex;
+        flex-direction: column;
         align-items: center;
         justify-content: center;
     }
+    .contactLeft{
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+    }
+    .heading{
+        
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 0;
+    margin-bottom: 0;
+    }
+    .phoneEmail{
+        flex-direction: column;
+        height: 100%;
+    
+    }
+    iframe{
+        width: 100%;
+    }
+    .contactForm{
+    width: 100%;
+    background-color: white;
+    margin: 0 0 0 0;
+    }
+    .phone{
+        margin-top: 13px;
+        margin-bottom: 32px;
+    }
+    .phone,.Email{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        line-height: 4;
+    }
+    .address{
+        width: 100%;
+    }
+    
 }
