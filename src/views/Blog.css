@@ -1,0 +1,35 @@
+.headingg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 13rem;
+    width: 100%;
+    background-color: rgb(251, 241, 243);
+}
+.height-inrem{
+    height: 38rem;
+}
+.blog{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.blogComponents{
+    width: 47%;
+    margin-bottom: 32px;
+    margin-right: 32px;
+}
+.butt{
+    position: absolute;
+    bottom: 21px;
+}
+@media only screen and (max-width: 600px){
+    .blogComponents{
+        width: 100%;
+        margin-right: 0;
+    }
+    .headingg{
+        width: 92%;
+        margin: 13px 15px 14px 15px;
+    }
+}

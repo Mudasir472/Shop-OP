@@ -68,7 +68,7 @@ iframe{
     width: 35rem;
 }
 .mb-3{
-    width: 23rem!important;
+    /* width: 23rem!important; */
 }
 form button{
     width: 100%!important;

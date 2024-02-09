@@ -28,7 +28,7 @@ export default function () {
                                 <a class="nav-link" href="#">Shop</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Blog</a>
+                                <Link class="nav-link" to="/Blog">Blog</Link>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">About</a>
