@@ -20,6 +20,8 @@ import img11 from "../Images/img11.jpg"
 import img12 from "../Images/img12.jpg"
 import Discount from "../Components/Discount";
 
+// import Slider from "./Slider";
+
 
 
 const Home = () => {
@@ -32,6 +34,7 @@ const Home = () => {
       <Design desc="New Arrival" img1={img5} img2={img6} img3={img7} img4={img8}/>
       <Design img1={img9} img2={img10} img3={img11} img4={img12}/>
       <Discount/>
+      
     </>
   );
 };
